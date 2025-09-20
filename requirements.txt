@@ -1,0 +1,6 @@
+langchain
+langchain-huggingface
+transformers
+pytorch -> pip install torch torchvision torchaudio --index-url ......
+microsoft visual c++ redistributor (in pc)
+ExecutionPolicy of powershell must be set to = RemoteSignal
